@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe4979e2.chunk.css",
+    "main.js": "/static/js/main.0502511f.chunk.js",
+    "main.js.map": "/static/js/main.0502511f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64002cda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64002cda.js.map",
+    "static/css/2.4f5fa3e4.chunk.css": "/static/css/2.4f5fa3e4.chunk.css",
+    "static/js/2.42d55520.chunk.js": "/static/js/2.42d55520.chunk.js",
+    "static/js/2.42d55520.chunk.js.map": "/static/js/2.42d55520.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.509e64c39458bbeaccd160864e8c16f4.js": "/precache-manifest.509e64c39458bbeaccd160864e8c16f4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4f5fa3e4.chunk.css.map": "/static/css/2.4f5fa3e4.chunk.css.map",
+    "static/css/main.fe4979e2.chunk.css.map": "/static/css/main.fe4979e2.chunk.css.map",
+    "static/js/2.42d55520.chunk.js.LICENSE.txt": "/static/js/2.42d55520.chunk.js.LICENSE.txt",
+    "static/media/Logo on blue background.JPG": "/static/media/Logo on blue background.b04827c8.JPG",
+    "static/media/Table.css": "/static/media/Logo_Watermark_2048x1536.3d0d2afc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64002cda.js",
+    "static/css/2.4f5fa3e4.chunk.css",
+    "static/js/2.42d55520.chunk.js",
+    "static/css/main.fe4979e2.chunk.css",
+    "static/js/main.0502511f.chunk.js"
+  ]
+}
